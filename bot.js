@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['NXR by miahwk','by miahwk'];
+    var setGame = ['NxR BOT by ZR1-Mihawk','by miahwk'];
     var i = -1;
     var j = 0;
     setInterval(function (){
